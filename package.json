@@ -1,0 +1,26 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "bcrypt": "^5.1.1",
+    "connect-pg-simple": "^9.0.0",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "iron": "^5.0.6",
+    "next": "13.4.17",
+    "next-iron-session": "^4.2.0",
+    "pg": "^8.11.3",
+    "pg-pool": "^3.6.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-router-dom": "^6.15.0"
+  }
+}
